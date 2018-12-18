@@ -28,6 +28,7 @@ CLibParser::~CLibParser(void)
 
 BOOL CLibParser::Parse(PCSTR szLib)
 {
+	// 读取lib并判断文件合法性
 	if(!LoadLib(szLib))
 		return FALSE;
 	//获得第一个Obj成员

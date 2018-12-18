@@ -1,9 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibParser", "LibParser\LibParser.vcproj", "{CFD1CBD8-716A-4CF9-B36C-A3914F2F3242}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibParser", "LibParser\LibParser.vcxproj", "{CFD1CBD8-716A-4CF9-B36C-A3914F2F3242}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibScanner", "LibScanner\LibScanner.vcproj", "{14523F05-B47B-4498-8515-A7E54E43BD61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibScanner", "LibScanner\LibScanner.vcxproj", "{14523F05-B47B-4498-8515-A7E54E43BD61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
